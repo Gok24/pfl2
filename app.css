@@ -607,7 +607,7 @@ body.dark .mow button{
         letter-spacing: -1px;
     }
     .hero{
-        height: 70vh;
+        height: 80vh;
         display: flex;
         justify-content: space-between;
         margin: 0px 30px;
